@@ -7,7 +7,7 @@ Sadly, I kinda ran out of time on a bunch of stuff and just decided to post what
 Im mostly missing:
 - A OCR model that is either .mlmodel or .tflite,
 - Application of that model into the app,
-- an "import image" button.
+- an "import image" function.
 
 I'm not extremely experienced in GitHub, Swift, or AI modeling and any help that I could get would be great to hopefully finish this app.
 Going back to above, any input is great - even if it makes this app just slightly better!
