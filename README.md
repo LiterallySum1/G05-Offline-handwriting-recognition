@@ -1,4 +1,4 @@
-# IOS Offline-handwriting-recognition-Application
+# IOS Offline handwriting recognition application
 
 Note: this is incomplete and does require some changes.
 
